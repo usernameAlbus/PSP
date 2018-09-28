@@ -1,3 +1,6 @@
+##Definición de una clase
+--------------
+
 Una clase en Java es como una plantilla donde pueden ser utilizadas por el usuario para llevar acabo tareas de programación, el usuario también tiene la posibilidad de modelar o crear sus propias clases según el proyecto de programación.  
 **Las características de una clase Java son:**  
 **-Nombre**  
