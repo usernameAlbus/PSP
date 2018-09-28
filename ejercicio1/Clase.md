@@ -9,15 +9,17 @@ Tenemos dos tipos principales public y private, public pudiendo ser invocada/lla
 Tenemos public static void MAIN, que indica que al darle al play será la primera en ejecutarse.
 
 **EJEMPLO:**  
-Java
 ```
+//package nombre;
 public class ejemplo{
     public static void main(String[] args){
         int uno = 1;
         
         uno += 1;
         
-        System.out.ln("Uno equivale a " + uno);
+        System.out.println("Uno equivale a " + uno);
+        
+        //EJEMPLO DE UNA SIMPLE SUMA EN UNA CLASE
     }
 }
 ```
