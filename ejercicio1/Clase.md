@@ -7,3 +7,17 @@ Una clase en Java es como una plantilla donde pueden ser utilizadas por el usuar
 Tenemos dos tipos principales public y private, public pudiendo ser invocada/llamada por cualquier entidad dentro o fuera de la clase y private not.
 
 Tenemos public static void MAIN, que indica que al darle al play será la primera en ejecutarse.
+
+**EJEMPLO:**  
+Java
+```
+public class ejemplo{
+    public static void main(String[] args){
+        int uno = 1;
+        
+        uno += 1;
+        
+        System.out.ln("Uno equivale a " + uno);
+    }
+}
+```
