@@ -4,3 +4,4 @@
 - Este es el repositorio hecho por DM Albus de 2 DAM.
 ------------------------------------------------
 - Al cabo del año estudiantil este repositorio ira llenandose de información para mi YO, del futuro.
+![alt text](https://vignette.wikia.nocookie.net/happytreefanon/images/2/29/Seemsgood.jpg/revision/latest?cb=20170729162007)
