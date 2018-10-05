@@ -159,3 +159,23 @@ public abstract class Humano {
 	
 }
 ```
+##Definición de el Poliformismo en Java
+--------------  
+El Polimorfismo es la habilidad de una función, método, variable y objeto de poseer varias formas distintas, como el mismo significado de la palabra, su proposito es implementar un estilo de programación llamado envío de mensajes en el que los objetos interactúan entre ellos mediante estos mensjaes, que no son más que llamadas a distintas funciones.  
+  
+**EJEMPLO:**  
+```java
+abstract class Semaforo
+{
+	abstract public void iniciar();
+}
+
+class Color extends Semaforo
+{
+	@Override
+	public void iniciar()
+	{
+	
+	}
+}
+```
