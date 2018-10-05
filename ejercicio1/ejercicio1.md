@@ -1,12 +1,9 @@
-Clase  
-Objeto  
-Sobrecarga de métodos  
-Herencia  
-Polimorfismo  
-Interface  
-
-
-[Link-name2](#Header2)
+[Clase]  
+[Objeto]  
+[Sobrecarga de métodos]  
+[Herencia]  
+[Polimorfismo]  
+[Interface](#interfaces)  
 
 ##Definición de una Clase Java
 --------------
@@ -180,9 +177,10 @@ class Color extends Semaforo
 	
 	}
 }
-```  # Header2
+```
 
 ##Definición de Interface en Java
+#interfaces
 --------------  
 Interface en Java es una colección de métodos abstractos y propiedades constantes, no encapsula datos, sólo define cuáles son los métodos que han de implementar los objetos de aquellas clases que implementen la inferfaz.  
   
