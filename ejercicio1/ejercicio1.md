@@ -39,7 +39,9 @@ public class Ejemplo{
 ##Definición de un Objeto Java
 --------------  
 Un objeto es una entided existente en la memoria del orenador que tiene propiedades como atributos o datlos sobre si mismo almacenados por el mismo objeto y operaciones especificas.  
-Los objetos puede interactuar unos con otros, son capaces de recibir mensajes, procesar datos y enviar mensajes a otros objetos de manera similar a un servicio.
+Los objetos puede interactuar unos con otros, son capaces de recibir mensajes, procesar datos y enviar mensajes a otros objetos de manera similar a un servicio.  
+
+Incluimos private para que no sea publico para las otras clases.
 
 Tienen constructores, metodos, getters y setters...  En el ejemplo podemos llamar al humano con un constructor vacio:  
 Humano h1 = new Humano();  
@@ -92,4 +94,68 @@ public class Humano {
 	
 }
 
+```  
+
+##Definición de una sobrecarga de metodos en Java  
+
+##Definición de una Herencia  
+--------------  
+Herencia en Java hace que la clase que se hereda se denomina superclase, y la clase que hereda de esa superclase subclase.
+De la superclase heredan todas las variables y metodos definidos por ella y agrega sus propios elementos unicos.  
+En la clase principal se utiliza abstract, esta no puede ser utilizada como objeto, la subclase utiliza extends, **EJEMPLO**:  
+
+La llamada de Super(); en la subclase llama al constructor del padre, metodos y propiedades.
+
+Humano h1 = new Mejicano(); De esta manera creamos un objeto "Mejicano". ~~Humano h1 = new Humano h1();~~ <- Daria error.
+  
+```java
+package test;
+
+public abstract class Humano {
+	private String nombre;
+	
+	public Humano() {
+		
+	}
+
+	public String getNombre() {
+		return nombre;
+	}
+
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+	
+	public abstract void experiencia();
+	
+	public class Mejicano extends Humano{
+		
+		private int edad;
+		
+		public Mejicano() {
+			super();
+		}
+		
+		public Mejicano(int edad) {
+			super();
+			this.edad = edad;
+		}
+
+		public int getEdad() {
+			return edad;
+		}
+
+		public void setEdad(int edad) {
+			this.edad = edad;
+		}
+
+		@Override
+		public void experiencia() {
+			// TODO Auto-generated method stub
+			
+		}
+		
+	}
+	
+}
 ```
