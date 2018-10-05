@@ -178,4 +178,43 @@ class Color extends Semaforo
 	
 	}
 }
+```  
+
+##Definición de Interface en Java
+--------------  
+Interface en Java es una colección de métodos abstractos y propiedades constantes, no encapsula datos, sólo define cuáles son los métodos que han de implementar los objetos de aquellas clases que implementen la inferfaz.  
+  
+**EJEMPLO:**  
+```java
+	public class Cuadrado implements Arte
+	{
+	
+		private double lado;
+		
+		public Cuadrado (double lado)
+		{
+			this.lado = lado;
+		}
+		
+		public double area ()
+		{
+			return lado * lado;
+		}
+		
+	}
+	
+	public class Circulo implements Arte 
+	{
+		private double radio;
+		
+		public Circulo(double radio)
+		{
+			this.radio = radio;
+		}
+		
+		public double area () 
+		{
+			return Math.PI * radio * radio;
+		}
+	}
 ```
