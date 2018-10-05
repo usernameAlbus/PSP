@@ -5,6 +5,9 @@ Herencia
 Polimorfismo  
 Interface  
 
+# Header2
+[Link-name2](#Header2)
+
 ##Definición de una Clase Java
 --------------
 
