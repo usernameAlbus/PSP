@@ -89,6 +89,29 @@ public class Humano {
 ```  
 
 ##Definición de una sobrecarga de metodos en Java  
+--------------
+En Java la sobrecarga permite definir más de un constructor o método con el mismo nombre pero con diferentes parametros.  
+
+**EJEMPLO:**  
+  
+```java
+
+public class Sobrecarga {
+	private String nombre, apellido;
+	
+		public void modificar(String nombre){
+			this.nombre = nombre;
+		}
+		public void modificar(String apellido){
+			this.apellido = apellido;
+		}
+		public void modificar(String nombre, String apellido){
+			this.nombre = nombre;
+			this.apellido = apellido;
+		}
+}
+
+```
 
 ##Definición de una Herencia  
 --------------  
