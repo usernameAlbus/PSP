@@ -1,4 +1,3 @@
-```java
 package test;
 import java.util.Scanner;
 
@@ -27,4 +26,3 @@ public class NewDni {
 		return true;
 	}
 }
-```
