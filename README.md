@@ -1,3 +1,3 @@
 # PSP
-### Planificación de servicios y procesos
+### Programación de servicios y procesos
 ------------------------------------------------
