@@ -1,4 +1,4 @@
-[click on this link](#hello-moto)
+[click on this link](#definición-de-una-herencia)
 
 
 
