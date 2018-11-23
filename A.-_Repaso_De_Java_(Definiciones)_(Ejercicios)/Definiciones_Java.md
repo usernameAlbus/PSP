@@ -1,7 +1,10 @@
 ## ATAJOS
-* [Clase](#definición-de-una-clase)
+* [Clase](#definición-de-una-clase-java)
 * [Objeto](#definición-de-un-objeto-java)
 * [Herencia](#definición-de-una-herencia)  
+* [Sobrecarga de metodos](#definición-de-una-sobrecarga-de-metodos-en-java)  
+* [Polimorfismo](#definición-de-el-Poliformismo-en-java)  
+* [Interface](#definición-de-interface-en-java)
 
 
 
