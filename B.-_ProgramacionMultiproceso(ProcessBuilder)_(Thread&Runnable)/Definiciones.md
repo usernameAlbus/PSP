@@ -1,13 +1,13 @@
 ## ATAJOS
-* [Aplicacion]()  
-* [Servicio]()  
-* [Proceso]()  
-* [Hilo]()  
-* [Programacion Concurrente]()  
-* [Programacion Paralela]()  
-* [Programacion Distribuida]()  
+* [Aplicacion](#definición-de-una-aplicación)  
+* [Servicio](#definición-de-un-servicio)  
+* [Proceso](#definición-de-un-proceso)  
+* [Hilo](#definición-de-un-hilo)  
+* [Programacion Concurrente](#definición-de-la-programación-concurrente)  
+* [Programacion Paralela](#definición-de-la-programación-paralela)  
+* [Programacion Distribuida](#definición-de-la-programación-distribuida)  
 
-## Definición de aplicación  
+## Definición de una aplicación  
 
 
 ## Definición de un servicio
