@@ -11,7 +11,7 @@ Github del alumno D.A. numero 1 en la lista, esta estructurado de la siguiente m
 **B.-Programación multiproceso**  
  * Ejemplos.
  * Definiciones.
- *Actividades.
+ * Actividades.
    
 **C.-Programación multihilo**
   * Pendiente...
