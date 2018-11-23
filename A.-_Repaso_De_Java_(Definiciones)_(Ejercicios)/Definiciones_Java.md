@@ -1,15 +1,15 @@
-##DefiniciÛn de una Clase Java
+##Definici√≥n de una Clase Java
 --------------
 
-Una clase en Java es como una plantilla donde pueden ser utilizadas por el usuario para llevar acabo tareas de programaciÛn, el usuario tambiÈn tiene la posibilidad de modelar o crear sus propias clases seg˙n el proyecto de programaciÛn.  
-**Las caracterÌsticas de una clase Java son:**  
+Una clase en Java es como una plantilla donde pueden ser utilizadas por el usuario para llevar acabo tareas de programaci√≥n, el usuario tambi√©n tiene la posibilidad de modelar o crear sus propias clases seg√∫n el proyecto de programaci√≥n.  
+**Las caracter√≠sticas de una clase Java son:**  
 **-Nombre**  
 **-Propiedades**   
 **-Constructor**
-**-MÈtodos**  
+**-M√©todos**  
 Tenemos dos tipos principales public y private, public pudiendo ser invocada/llamada por cualquier entidad dentro o fuera de la clase y private not.
 
-Tenemos public static void MAIN, que indica que al darle al play ser· la primera en ejecutarse. TambiÈn las clases tienen que ir la primera letra de en mayuscula como norma general, un ejemplo podrÌa ser Clase, y si son varias palabras ClasesPrueba.
+Tenemos public static void MAIN, que indica que al darle al play ser√° la primera en ejecutarse. Tambi√©n las clases tienen que ir la primera letra de en mayuscula como norma general, un ejemplo podr√≠a ser Clase, y si son varias palabras ClasesPrueba.
 
 **EJEMPLO:**  
 ```java
@@ -28,7 +28,7 @@ public class Ejemplo{
 ```  
   
     
-##DefiniciÛn de un Objeto Java
+##Definici√≥n de un Objeto Java
 --------------  
 Un objeto es una entided existente en la memoria del orenador que tiene propiedades como atributos o datlos sobre si mismo almacenados por el mismo objeto y operaciones especificas.  
 Los objetos puede interactuar unos con otros, son capaces de recibir mensajes, procesar datos y enviar mensajes a otros objetos de manera similar a un servicio.  
@@ -88,9 +88,9 @@ public class Humano {
 
 ```  
 
-##DefiniciÛn de una sobrecarga de metodos en Java  
+##Definici√≥n de una sobrecarga de metodos en Java  
 --------------
-En Java la sobrecarga permite definir m·s de un constructor o mÈtodo con el mismo nombre pero con diferentes parametros.  
+En Java la sobrecarga permite definir m√°s de un constructor o m√©todo con el mismo nombre pero con diferentes parametros.  
 
 **EJEMPLO:**  
   
@@ -113,7 +113,7 @@ public class Sobrecarga {
 
 ```
 
-##DefiniciÛn de una Herencia  
+##Definici√≥n de una Herencia  
 --------------  
 Herencia en Java hace que la clase que se hereda se denomina superclase, y la clase que hereda de esa superclase subclase.
 De la superclase heredan todas las variables y metodos definidos por ella y agrega sus propios elementos unicos.  
@@ -174,9 +174,9 @@ public abstract class Humano {
 	
 }
 ```
-##DefiniciÛn de el Poliformismo en Java
+##Definici√≥n de el Poliformismo en Java
 --------------  
-El Polimorfismo es la habilidad de una funciÛn, mÈtodo, variable y objeto de poseer varias formas distintas, como el mismo significado de la palabra, su proposito es implementar un estilo de programaciÛn llamado envÌo de mensajes en el que los objetos interact˙an entre ellos mediante estos mensjaes, que no son m·s que llamadas a distintas funciones.  
+El Polimorfismo es la habilidad de una funci√≥n, m√©todo, variable y objeto de poseer varias formas distintas, como el mismo significado de la palabra, su proposito es implementar un estilo de programaci√≥n llamado env√≠o de mensajes en el que los objetos interact√∫an entre ellos mediante estos mensjaes, que no son m√°s que llamadas a distintas funciones.  
   
 **EJEMPLO:**  
 ```java
@@ -195,9 +195,9 @@ class Color extends Semaforo
 }
 ```
 
-##DefiniciÛn de Interface en Java
+##Definici√≥n de Interface en Java
 --------------  
-Interface en Java es una colecciÛn de mÈtodos abstractos y propiedades constantes, no encapsula datos, sÛlo define cu·les son los mÈtodos que han de implementar los objetos de aquellas clases que implementen la inferfaz.  
+Interface en Java es una colecci√≥n de m√©todos abstractos y propiedades constantes, no encapsula datos, s√≥lo define cu√°les son los m√©todos que han de implementar los objetos de aquellas clases que implementen la inferfaz.  
   
 **EJEMPLO:**  
 ```java
