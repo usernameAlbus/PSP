@@ -7,9 +7,11 @@ Github del alumno numero 1 de la lista, esta estructurado de la siguiente manera
  * Ejemplos.  
  * Definiciones.  
  * Actividades.  
+   
 **B.-Programación multiproceso**  
  * Ejemplos.
  * Definiciones.
- *Actividades.  
+ *Actividades.
+   
 **C.-Programación multihilo**
   * Pendiente...
