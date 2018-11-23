@@ -1,4 +1,4 @@
-[click on this link](#definición-de-una-herencia)
+[Herencia](#definición-de-una-herencia)
 
 
 
