@@ -1,6 +1,6 @@
 ## ATAJOS
 * [Clase](#definición-de-una-clase)
-* [Objeto](#definición-de-un-objeto)
+* [Objeto](#definición-de-un-objeto-java)
 * [Herencia](#definición-de-una-herencia)  
 
 
