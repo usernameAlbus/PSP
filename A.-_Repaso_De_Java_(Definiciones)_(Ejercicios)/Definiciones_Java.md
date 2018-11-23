@@ -1,4 +1,8 @@
-[Herencia](#definición-de-una-herencia)
+## ATAJOS
+* [Clase](#definición-de-una-clase)
+* [Objeto](#definición-de-un-objeto)
+* [Herencia](#definición-de-una-herencia)  
+
 
 
 
