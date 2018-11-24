@@ -35,4 +35,4 @@ Es la ejecuccion de múltiples tareas interactivas, estos pueden ser un conjunto
 La programación paralela consta de un solo ordenador que puede ejecutar varias tareas a la vez(tiene que tener 2 o más núcleos). Hay varias formas de programación paralela, el paralelismo de datos y el paralellismo de tareas.  
 
 ## Definición de la programación distribuida  
-  
+  Es un paradigma enfocado en desarrollar sistemas distribuidos, abiertos, escalables, transparentes y tolerantes a fallos, cualquier lenguaje de programacion que tenga acceso al máximo hardware del sistema puede manejar este tipo de programación.
