@@ -11,11 +11,19 @@
 
 **Es un tipo de software o conjuntos de softwares** (ej: Microsoft Office, Ninite) que permite al usuario realizar uno a más tipos de trabajo. Existen infinidades tipos de aplicaciónes, por ejemplo los procesadores de texto, las hojas de calculo, los que cumplen tareas de mantenimiento entre muchas.  
   
-  Realizan trabajos especificos para el beneficio del usuario final, las aplicaciónes mas conocidas pueden ser junto con las de arriba, las bases de datos, agendas, programas gráficos...
+  Realizan trabajos especificos para el beneficio del usuario final, las aplicaciónes mas conocidas pueden ser junto con las de arriba, las bases de datos, agendas, programas gráficos...  
+  
+  **Ejemplo de un programa gráfico**:
+  
+  ![Paint](https://upload.wikimedia.org/wikipedia/commons/f/f8/Paint.NET_3.35_screenshot.png)
 
 ## Definición de un servicio  
 
 Un servicio es un proceso que **no es grafico(no tiene interfaz) y esta ejecutandose en segundo plano**, por que  no está pensado para que el usuario lo maneje directamente. Estos servicios buscan responder a las necesidades de un cliente por medio de un cambio de condición en los bienes informaticos, potenciando el valor de estos y reduciendo el riesgo inherente del sistema.  
+
+**Ejemplo de los servicios corriendo en Windows**:
+
+![Services](https://www.howtogeek.com/wp-content/uploads/2014/05/clip_image0024.png)
 
 
 ## Definición de un proceso  
