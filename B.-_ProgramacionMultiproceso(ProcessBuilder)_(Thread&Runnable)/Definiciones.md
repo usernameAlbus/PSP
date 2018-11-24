@@ -46,7 +46,7 @@ Es la ejecuccion de múltiples tareas interactivas, estos pueden ser un conjunto
 
 **Ejemplos**:  
 
-[Ejemplos](https://github.com/usernameAlbus/PSP/tree/master/B.-_ProgramacionMultiproceso(ProcessBuilder)_(Thread%26Runnable)/Thread_y_Runnable)
+* [Programas básicos con Thread y Runnable.](https://github.com/usernameAlbus/PSP/tree/master/B.-_ProgramacionMultiproceso(ProcessBuilder)_(Thread%26Runnable)/Thread_y_Runnable)
 
 ## Definición de la programación paralela  
 
